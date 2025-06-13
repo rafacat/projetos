@@ -9,7 +9,7 @@ Explore nossos projetos abaixo e sinta-se à vontade para contribuir, sugerir me
 ## 🌟 **Destaques da Nossa Coleção**
 
 ### 🏋️‍♀️ **1. Sistema de Gerenciamento de Manutenções da Academia**
-*([Link para o Repositório](https://github.com/rafacat/ManutencaoAcademia))*
+*([Link para o Repositório](https://github.com/rafacat/projetos/tree/main/manutencaoPreventivaSESI))*
 
 * **Propósito:** Um sistema intuitivo para registrar e acompanhar manutenções preventivas (quinzenais) e corretivas dos aparelhos de uma academia.
 * **Funcionalidades Chave:** Registro automatizado de preventivas para todos os aparelhos, registro detalhado de corretivas com observações obrigatórias, cálculo inteligente da próxima preventiva, e organização em planilhas Excel por aparelho.
