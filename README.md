@@ -14,7 +14,7 @@ Explore nossos projetos abaixo e sinta-se à vontade para contribuir, sugerir me
 * **Propósito:** Um sistema intuitivo para registrar e acompanhar manutenções preventivas (quinzenais) e corretivas dos aparelhos de uma academia.
 * **Funcionalidades Chave:** Registro automatizado de preventivas para todos os aparelhos, registro detalhado de corretivas com observações obrigatórias, cálculo inteligente da próxima preventiva, e organização em planilhas Excel por aparelho.
 * **Tecnologias:** Python, `openpyxl`.
-* **Status:** Concluído / Em Desenvolvimento Contínuo (Escolha o que melhor se aplica)
+* **Status:** Em Desenvolvimento Contínuo
 
 ---
 
